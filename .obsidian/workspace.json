@@ -173,9 +173,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12651286017ff4ed",
-  "lastOpenFiles": []
+  "active": "24316186f8f673dc",
+  "lastOpenFiles": [
+    "pillars/AIValueWorx Offer and Methodology.md",
+    "clusters/aivalueworx-offer-and-methodology--shared-test.md"
+  ]
 }
