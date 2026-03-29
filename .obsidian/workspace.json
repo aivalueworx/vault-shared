@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pillars/Product Strategy.md",
+                "file": "_memory/entity-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Strategy"
+              "title": "entity-index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pillars/Product Strategy.md",
+                "file": "_memory/entity-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Product Strategy"
+              "title": "Backlinks for entity-index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pillars/Product Strategy.md",
+                "file": "_memory/entity-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Product Strategy"
+              "title": "Outgoing links from entity-index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pillars/Product Strategy.md",
+                "file": "_memory/entity-index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Product Strategy"
+              "title": "Outline of entity-index"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "12651286017ff4ed",
   "lastOpenFiles": [
+    "pillars/Product Strategy.md",
     "clusters/aivalueworx-offer-and-methodology--shared-test.md",
     "pillars/AIValueWorx Offer and Methodology.md"
   ]
