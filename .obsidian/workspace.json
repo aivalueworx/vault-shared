@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_memory/pillar-index.md",
+                "file": "shared-notes/test-shared-note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pillar-index"
+              "title": "test-shared-note"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "12651286017ff4ed",
   "lastOpenFiles": [
+    "_memory/pillar-index.md",
     "pillars/Product Strategy.md",
     "pillars/Personal Knowledge Management.md",
     "pillars/Building with Agents.md",
