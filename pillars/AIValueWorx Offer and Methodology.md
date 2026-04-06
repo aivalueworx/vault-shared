@@ -2,7 +2,7 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-04-05
+last_collated: 2026-04-06
 ---
 
 # AIValueWorx Offer and Methodology
@@ -11,30 +11,30 @@ last_collated: 2026-04-05
 
 ## Overview
 
-This pillar is meant to capture the core offer, methodology, and delivery approach that defines AIValueWorx—how the organization creates value, what distinguishes its method, and how it executes. At this stage, however, the pillar contains only a test structure with no substantive content. Before meaningful synthesis is possible, this pillar needs to accumulate concrete notes on the actual offer proposition, methodological frameworks, delivery processes, and how they fit together to create a coherent value story.
+This pillar is meant to capture the core offer AIValueWorx brings to the market and the methodology that delivers it. Understanding both what we sell and *how* we deliver it is essential to coherent positioning, client communication, and internal execution. At present, this pillar is severely underpopulated—we have only a test artifact rather than substantive documentation of our approach, services, or distinctive methodology.
 
 ## What I Know
 
-The pillar currently consists of a single test note used to verify the collation and synthesis infrastructure. There is no substantive content yet describing AIValueWorx's offer, methodology, or approach. This appears to be scaffolding rather than knowledge.
+### shared-test
+There is currently only a placeholder note in the system, designed to validate the note-sharing and collation infrastructure rather than to document actual methodology or offer. This suggests either that we haven't yet synthesized our core offering into knowledge notes, or that our documentation is captured elsewhere and hasn't been migrated into this system.
 
 ## Cross-Cluster Connections
 
-Not yet applicable. Without substantive notes in this pillar, there are no meaningful connections to identify either within it or to other clusters.
+At this stage, there are no meaningful cross-cluster connections to map. A mature version of this pillar would likely connect to other areas—for instance, how our methodology informs our approach to client engagement, how it shapes our value propositions, or how it differentiates us competitively. None of those relationships are yet visible.
 
 ## Open Questions & Gaps
 
-The entire pillar is essentially an open question at this stage:
+The most pressing gap is fundamental: **what is the AIValueWorx offer, and what methodology delivers it?** 
 
-- **What is the core offer?** What does AIValueWorx actually deliver to clients? What problem does it solve, and what makes its solution distinctive?
-- **What is the methodology?** What frameworks, processes, or thinking guides how work gets done? What are the key phases, decision gates, or principles?
-- **What is the delivery model?** How is work organized, structured, and handed off? What does engagement look like from a client perspective?
-- **What is "shared testing"?** The one cluster name suggests testing plays a role, but it's undefined—is this about validation, collaborative learning, iterative refinement, or something else?
-- **How do these elements cohere?** How should offer, methodology, and delivery relate to create a coherent story?
+Specifically:
+- What services or products do we provide to clients?
+- What is distinctive about *how* we deliver them?
+- What frameworks, processes, or practices form the backbone of our methodology?
+- How do we position our approach relative to competitors or alternative methods?
+- What are the core principles or values embedded in how we work?
+
+This cluster cannot mature without substantive notes addressing these questions. The current state suggests either that this knowledge exists but hasn't been captured, or that we need to do explicit work to articulate and codify our offer and methodology.
 
 ## Recently Added
 
-- **test-shared-note**: Placeholder content confirming cluster creation and collation infrastructure.
-
----
-
-**Recommendation:** This pillar is ready for active development. Start by capturing the foundational elements—the core offer proposition, the key methodological principles, and the delivery structure. Once those anchors are in place, the "shared testing" cluster and others can be filled in with concrete practices and frameworks that operationalize the methodology.
+- **test-shared-note**: Placeholder content validating the note-sharing and collation workflow.
