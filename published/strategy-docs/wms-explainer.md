@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "Your AI implementation,<br><strong>running inside your own infrastructure.</strong>"
-eyebrow: "AI Value Worx — Workflow Management System"
+eyebrow: "AIValueWorx — Workflow Management System"
 meta: "Orientation Guide · For your implementation team · April 2026"
 navTitle: "Client explainer"
 navSection: "Overview"
