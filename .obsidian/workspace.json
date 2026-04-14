@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/strategy-docs/wms-tool-mapping.md",
+                "file": "published/blog/welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wms-tool-mapping"
+              "title": "welcome"
             }
           }
         ]
@@ -186,14 +186,14 @@
   },
   "active": "8044023e98b9d1f1",
   "lastOpenFiles": [
-    "published/blog/welcome.md",
     "published/blog/governance-readiness.md",
+    "published/strategy-docs/wms-tool-mapping.md",
+    "published/blog/welcome.md",
     "published/blog",
     "docs/wms-tool-mapping.html.md",
     "published/strategy-docs/quick-start-guide.md",
     "docs",
     "shared-notes/test-shared-note.md",
-    "published/strategy-docs/wms-tool-mapping.md",
     "published/strategy-docs/wms-template-integration.md",
     "published/strategy-docs/wms-task-library-framework.md",
     "published/strategy-docs/wms-template-integration-summary.md",
