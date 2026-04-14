@@ -2,7 +2,8 @@
 title: "Governance readiness in 60 seconds (the idea)"
 description: "Why an instant policy check against ICO, DSIT, and CDEI beats a slide deck full of hope."
 date: 2026-04-13
-author: "AIValueWorx"
+author: "Mike Baxter"
+authorLinkedIn: "https://www.linkedin.com/in/mike-baxter/"
 tags:
   - governance
   - compliance
