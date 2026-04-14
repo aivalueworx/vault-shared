@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "Six ways to sell the service.<br><strong>One strategic choice to make first.</strong>"
-eyebrow: "AI Value Worx — Commercial Strategy"
+eyebrow: "AIValueWorx — Commercial Strategy"
 meta: "Internal · Mike & Peter · April 2026"
 navTitle: "Service models"
 navSection: "Reference"
@@ -167,7 +167,7 @@ description: "Commercial models and products"
   <div class="task-body">
     <div>
       <div class="task-section-label">The pitch</div>
-      <p>After the engagement ends and the client is running independently, a quarterly advisory relationship keeps the methodology current and the SKILL library growing. Not managed service — the client operates the WMS without AI Value Worx. But having access to Mike and Peter's pattern recognition at phase transitions and strategic decision points is worth a retainer to the right client.</p>
+      <p>After the engagement ends and the client is running independently, a quarterly advisory relationship keeps the methodology current and the SKILL library growing. Not managed service — the client operates the WMS without AIValueWorx. But having access to Mike and Peter's pattern recognition at phase transitions and strategic decision points is worth a retainer to the right client.</p>
       <div style="display:flex;gap:5px;flex-wrap:wrap;margin-top:8px;">
         <span class="side-tag side-both">Advisory</span>
         <span class="side-tag side-wms">Methodology</span>
@@ -202,7 +202,7 @@ description: "Commercial models and products"
   <div class="task-body">
     <div>
       <div class="task-section-label">The pitch</div>
-      <p>Other AI consultancies, digital transformation firms, and technology partners licence the AI Value Worx methodology and deliver it to their own clients under their own brand. AI Value Worx provides the task library, SKILL seed, training, and ongoing methodology updates. Partners provide client relationships, delivery capacity, and domain expertise. Revenue from licence plus training, not from direct client work.</p>
+      <p>Other AI consultancies, digital transformation firms, and technology partners licence the AIValueWorx methodology and deliver it to their own clients under their own brand. AIValueWorx provides the task library, SKILL seed, training, and ongoing methodology updates. Partners provide client relationships, delivery capacity, and domain expertise. Revenue from licence plus training, not from direct client work.</p>
       <div style="display:flex;gap:5px;flex-wrap:wrap;margin-top:8px;">
         <span class="side-tag side-wms">Methodology</span>
         <span class="side-tag side-tpl">Infrastructure</span>
@@ -257,7 +257,7 @@ description: "Commercial models and products"
       <p>Engineering teams at product companies building AI features, not enterprise transformation programmes. The "no black box, self-hosted, inspectable" message lands with CTOs who are also the technical decision-maker. The Cloudflare and Railway template integrations are the natural entry point — clients already on those platforms see immediate value without a methodology sales conversation.</p>
     </div>
     <div class="task-note">
-      <strong>Honest tension:</strong> This model reaches a different buyer than Models 1–4, which is good for market coverage but requires a different sales motion and different materials. The template integration analysis (the document you already have) is the technical proof of value for this model — it demonstrates depth of expertise with the platforms the buyer cares about. The risk is that it positions AI Value Worx as a technical implementation partner rather than a strategic methodology provider, which may compete with Models 1–4 for internal positioning.
+      <strong>Honest tension:</strong> This model reaches a different buyer than Models 1–4, which is good for market coverage but requires a different sales motion and different materials. The template integration analysis (the document you already have) is the technical proof of value for this model — it demonstrates depth of expertise with the platforms the buyer cares about. The risk is that it positions AIValueWorx as a technical implementation partner rather than a strategic methodology provider, which may compete with Models 1–4 for internal positioning.
     </div>
   </div>
 </div>

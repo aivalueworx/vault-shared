@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "System at a glance.<br><strong>Four views, four minutes.</strong>"
-eyebrow: "AI Value Worx — Workflow Management System"
+eyebrow: "AIValueWorx — Workflow Management System"
 meta: "Orientation · Read before the specs · April 2026"
 navTitle: "System diagrams"
 navSection: "Reference"

@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "From zero to first session.<br><strong>Your week one deployment guide.</strong>"
-eyebrow: "AI Value Worx — Workflow Management System"
+eyebrow: "AIValueWorx — Workflow Management System"
 meta: "Technical Guide · For your implementation lead · April 2026"
 navTitle: "First deployment — week one"
 navSection: "Guides"
@@ -142,7 +142,7 @@ description: "Technical guide for implementation lead"
     <div class="task-body">
       <div style="grid-column:1/3;">
         <p>Spec A establishes the process discipline the entire system depends on. The files you're about to build are only useful in the context of the session ritual, the briefing format, and the SKILL file conventions Spec A defines. Do not skip this. A WMS built without reading Spec A is infrastructure without a methodology — it will appear to work and produce no value.</p>
-        <p><strong>Estimated read time: 40 minutes.</strong> Take notes as you read. Write down anything that prompts a question — those questions become your first interaction with AI Value Worx after the build session, and each one is a gap in the specification that will be addressed.</p>
+        <p><strong>Estimated read time: 40 minutes.</strong> Take notes as you read. Write down anything that prompts a question — those questions become your first interaction with AIValueWorx after the build session, and each one is a gap in the specification that will be addressed.</p>
       </div>
     </div>
   </div>
@@ -244,7 +244,7 @@ description: "Technical guide for implementation lead"
     </div>
     <div class="task-body">
       <div style="grid-column:1/3;">
-        <p>The pre-populated task library is provided as a JSON fragment by AI Value Worx. Use your governed file execution tool (e.g. Cursor) to merge it into <code>dashboard.json</code> following the briefing you'll receive alongside the library. Do not edit <code>dashboard.json</code> directly in a text editor without a briefing — this is the first governed write operation and it establishes the pattern for everything that follows.</p>
+        <p>The pre-populated task library is provided as a JSON fragment by AIValueWorx. Use your governed file execution tool (e.g. Cursor) to merge it into <code>dashboard.json</code> following the briefing you'll receive alongside the library. Do not edit <code>dashboard.json</code> directly in a text editor without a briefing — this is the first governed write operation and it establishes the pattern for everything that follows.</p>
         <p><strong>Why this matters:</strong> The first time you make a change via a briefing rather than a direct edit, the audit chain starts. Every subsequent change will be traceable. Starting this way from day one costs nothing and builds the habit that makes the whole system reliable.</p>
       </div>
     </div>
@@ -259,7 +259,7 @@ description: "Technical guide for implementation lead"
     </div>
     <div class="task-body">
       <div style="grid-column:1/3;">
-        <p>The SKILL seed files are provided as a folder by AI Value Worx. Copy the entire folder to <code>Claude_Project_Files/Skills/</code>. Each file follows the SKILL format defined in Spec A — read two or three of them to understand the structure before your first session. These files will be referenced in your INDEX.md Skills Inventory table.</p>
+        <p>The SKILL seed files are provided as a folder by AIValueWorx. Copy the entire folder to <code>Claude_Project_Files/Skills/</code>. Each file follows the SKILL format defined in Spec A — read two or three of them to understand the structure before your first session. These files will be referenced in your INDEX.md Skills Inventory table.</p>
         <p>After copying, update the Skills Inventory table in INDEX.md to list each SKILL file with its domain tag. Your code execution tool can do this from the file listing — ask it to "read the YAML front matter from each file in Claude_Project_Files/Skills/ and generate the Skills Inventory table for INDEX.md."</p>
       </div>
     </div>
@@ -377,7 +377,7 @@ description: "Technical guide for implementation lead"
   <div class="task-card">
     <div class="task-header">
       <div class="task-id">5.1</div>
-      <div class="task-title">Day 4: Note what felt wrong and send it to AI Value Worx</div>
+      <div class="task-title">Day 4: Note what felt wrong and send it to AIValueWorx</div>
       <div class="task-ws ws-cap">Human</div>
       <div class="task-expand">▾</div>
     </div>

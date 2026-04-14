@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "Mapping your tools<br><strong>to the three WMS roles.</strong>"
-eyebrow: "AI Value Worx — Workflow Management System"
+eyebrow: "AIValueWorx — Workflow Management System"
 meta: "Technical Guide · For your implementation lead · April 2026"
 navTitle: "Tool mapping guide"
 navSection: "Guides"

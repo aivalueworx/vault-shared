@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "Task library framework.<br><strong>For review before full build.</strong>"
-eyebrow: "AI Value Worx — Workflow Management System"
+eyebrow: "AIValueWorx — Workflow Management System"
 meta: "Working Document · Mike & Peter — internal · April 2026"
 navTitle: "Task library framework"
 navSection: "Reference"
@@ -10,7 +10,7 @@ permalink: "/docs/wms-task-library-framework.html"
 description: "Phase × workstream matrix and sample tasks"
 ---
 
-<div class="banner banner-amber"><strong>This is a framework document, not a finished library.</strong> It proposes six phases, five workstreams, and ~72 tasks — with full done_when criteria written for one representative task per phase. The purpose is to validate the structure against what AI Value Worx actually delivers before the full 72-task build. Review questions are at the bottom. Every structural correction made here saves significant rework later.</div>
+<div class="banner banner-amber"><strong>This is a framework document, not a finished library.</strong> It proposes six phases, five workstreams, and ~72 tasks — with full done_when criteria written for one representative task per phase. The purpose is to validate the structure against what AIValueWorx actually delivers before the full 72-task build. Review questions are at the bottom. Every structural correction made here saves significant rework later.</div>
 
 <div class="divider"></div>
 
@@ -275,7 +275,7 @@ description: "Phase × workstream matrix and sample tasks"
 <li>At least three named individuals from different business units have been identified, agreed to the champion role, and have a written description of what that role entails</li>
 <li>Each champion has completed the internal AI literacy programme (or equivalent) and has a record of completion</li>
 <li>A regular champion meeting cadence exists (minimum monthly) with at least two meetings completed and notes recorded</li>
-<li>At least one champion has independently run a team-level session without AI Value Worx involvement — session notes exist</li>
+<li>At least one champion has independently run a team-level session without AIValueWorx involvement — session notes exist</li>
 <li>Champion programme has a named owner inside the organisation who is responsible for it continuing after the engagement ends</li>
 </ul>
 </div>
@@ -287,7 +287,7 @@ description: "Phase × workstream matrix and sample tasks"
 <div style="font-size:12.5px;font-weight:300;color:rgba(255,255,255,0.7);">6–8 weeks to establish</div>
 </div>
 </div>
-<div class="task-note"><strong>The independence criterion is the critical one.</strong> A champion programme that requires AI Value Worx to run every session hasn't transferred capability — it's created dependency. The done criteria above require demonstrated independence before this task can close. "In progress" is the correct status until criterion 4 is met.</div>
+<div class="task-note"><strong>The independence criterion is the critical one.</strong> A champion programme that requires AIValueWorx to run every session hasn't transferred capability — it's created dependency. The done criteria above require demonstrated independence before this task can close. "In progress" is the correct status until criterion 4 is met.</div>
 </div>
 </div>
 </div>
@@ -325,7 +325,7 @@ description: "Phase × workstream matrix and sample tasks"
 <div style="font-size:12.5px;font-weight:300;color:rgba(255,255,255,0.7);">Set up in final engagement session</div>
 </div>
 </div>
-<div class="task-note"><strong>Phase 6 tasks are about handover, not delivery.</strong> Every task in this phase should have a named internal owner as a done criterion. If AI Value Worx is still required to run any Phase 6 process, the engagement has not transferred what it was supposed to. These tasks are the proof of capability transfer.</div>
+<div class="task-note"><strong>Phase 6 tasks are about handover, not delivery.</strong> Every task in this phase should have a named internal owner as a done criterion. If AIValueWorx is still required to run any Phase 6 process, the engagement has not transferred what it was supposed to. These tasks are the proof of capability transfer.</div>
 </div>
 </div>
 </div>
@@ -335,13 +335,13 @@ description: "Phase × workstream matrix and sample tasks"
 <div class="review-qs">
 <div class="rq-title">Questions for Mike and Peter — before the full build</div>
 <div class="rq-grid">
-<div class="rq">Do these six phases match the actual AI Value Worx engagement journey, or are there phases missing, combined, or named differently in practice?</div>
+<div class="rq">Do these six phases match the actual AIValueWorx engagement journey, or are there phases missing, combined, or named differently in practice?</div>
 <div class="rq">Are the five workstreams the right ones? Is there a workstream that's prominent in your engagements that isn't represented here — e.g. a Data workstream separate from Technology?</div>
 <div class="rq">The done_when criteria are written to be verifiable by a third party. Are any of them unrealistic for the organisations you work with — things that sound right but would never actually happen?</div>
 <div class="rq">Phase 3 has ~20 tasks — the largest phase. Does that reflect the actual weight of pilot work in an engagement, or is it inflated?</div>
 <div class="rq">Are there task types that appear in real engagements that aren't represented in the matrix above — e.g. procurement tasks, integration tasks, board-level reporting tasks?</div>
-<div class="rq">Should the library have a "pre-engagement" phase (tasks for the client to complete before AI Value Worx engages) or does Phase 1 Readiness cover that?</div>
-<div class="rq">The "stop" path in Phase 4 is treated as a first-class outcome. Is that consistent with how AI Value Worx frames it to clients, or would clients find that framing uncomfortable?</div>
+<div class="rq">Should the library have a "pre-engagement" phase (tasks for the client to complete before AIValueWorx engages) or does Phase 1 Readiness cover that?</div>
+<div class="rq">The "stop" path in Phase 4 is treated as a first-class outcome. Is that consistent with how AIValueWorx frames it to clients, or would clients find that framing uncomfortable?</div>
 <div class="rq">For the enterprise extensions (multi-tab dashboard, deadlines, targets) — do those map to phases or to workstreams? i.e. is a deadline a phase-level milestone or a task-level attribute?</div>
 </div>
 </div>

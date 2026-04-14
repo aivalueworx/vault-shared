@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "Integration analysis.<br><strong>What changes, on which side, and why.</strong>"
-eyebrow: "AI Value Worx — WMS × Template Set"
+eyebrow: "AIValueWorx — WMS × Template Set"
 meta: "Internal working document · All six templates confirmed · April 2026"
 navTitle: "WMS × template integration (full)"
 navSection: "Templates"

@@ -1,7 +1,7 @@
 ---
 layout: aivalueworx-base.njk
 title: "Quick Start Guide.<br><strong>Use this on every working day.</strong>"
-eyebrow: "AI Value Worx — Workflow Management System"
+eyebrow: "AIValueWorx — Workflow Management System"
 meta: "Operating guide · Post-build reference · April 2026"
 navTitle: "Quick start (post-build)"
 navSection: "Guides"
