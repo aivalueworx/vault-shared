@@ -2,7 +2,7 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-04-13
+last_collated: 2026-04-14
 ---
 
 # AIValueWorx Offer and Methodology
@@ -11,32 +11,29 @@ last_collated: 2026-04-13
 
 ## Overview
 
-This pillar documents the core offering, value proposition, and delivery methodology that defines AIValueWorx. It should capture how the organization positions itself to clients, what problems it solves, the frameworks and processes it employs, and how it translates AI concepts into tangible business outcomes. This pillar is foundational—it shapes how all other knowledge domains (from technical implementation to client engagement) hang together coherently.
+This pillar is meant to capture the core offer, methodology, and approach that define AIValueWorx. It should document what the organization does, how it does it, why it matters, and how its various service components fit together. Currently, the pillar contains only a test note used to validate the knowledge synthesis infrastructure, so substantive content is still being built.
 
 ## What I Know
 
-### shared-test
-
-Currently, this cluster contains only structural scaffolding—a test note validating the collation workflow. There is no substantive content here yet. The cluster label suggests it may be intended as a shared testing ground or placeholder for future development, but its actual purpose within the AIValueWorx methodology remains undefined. This is either premature infrastructure or a signal that critical documentation about testing, validation, or proof-of-concept approaches hasn't yet been captured.
+### Shared Test Infrastructure
+The pillar has a functional collation system in place. A test note confirms that the infrastructure for tagging, retrieving, and synthesizing shared knowledge across the methodology is operational. This suggests intentionality about creating a shared knowledge layer—the kind where multiple team members might contribute insights about the offer or methodology, and those insights get aggregated into coherent briefings.
 
 ## Cross-Cluster Connections
 
-At present, there are no meaningful cross-cluster connections to map. With only a placeholder cluster present, the pillar lacks the interlocking knowledge domains needed to explain how methodology connects to value delivery, how offerings are positioned, or how internal processes support client outcomes. Future clusters on service offerings, engagement models, quality assurance, and value measurement frameworks would anchor these connections.
+At this stage, there are no cross-cluster connections to map because only the test infrastructure exists. Once substantive clusters populate the pillar, I'd expect to see relationships between the offer definition (what AIValueWorx provides), the methodology (how it works), the underlying frameworks or principles (why it works), and perhaps service-specific implementation details (how it varies by client or context). The shared collation layer suggests these clusters will need to reference and reinforce each other.
 
 ## Open Questions & Gaps
 
-This pillar is substantially incomplete. Several critical areas appear to be missing:
+This pillar is largely empty and represents the most critical gap:
 
-- **What is AIValueWorx's core offering?** There should be clarity on the primary service(s), target clients, and key differentiators.
-- **What is the methodology?** How does the organization approach engagements—discovery processes, frameworks used, delivery stages, quality gates?
-- **How is value defined and measured?** What does success look like for clients, and how does AIValueWorx demonstrate it?
-- **What does the testing/validation cluster actually address?** Should it cover client proof-of-concepts, internal QA practices, or something else entirely?
-- **Are there variations in the offer?** Does AIValueWorx offer different service tiers, engagement models, or industry-specific approaches?
+- **What is the core offer?** What does AIValueWorx actually sell or provide, and how is it positioned?
+- **What is the methodology?** What are the key phases, frameworks, or processes that define how work gets done?
+- **Why does it work?** What principles, values, or insights underpin the approach?
+- **What are the variations?** Are there different service lines, client types, or engagement models, and how do they relate to the core?
+- **What's the narrative?** How does all of this cohere into a compelling story about why AIValueWorx exists and what it's uniquely positioned to do?
+
+The test note shows the infrastructure is ready; now the hard work of documenting and synthesizing the actual offer and methodology needs to begin.
 
 ## Recently Added
 
-- **test-shared-note**: Test shared note for collation demonstrating the synthesis workflow (placeholder content only).
-
----
-
-**Next step:** This pillar needs substantive population. Prioritize capturing the core offer definition, primary engagement methodology, and how value is structured and communicated to clients.
+- **test-shared-note**: Test shared note for collation.
