@@ -2,7 +2,8 @@
 title: "Welcome to the AIValueWorx blog"
 description: "Human expertise, powered by AI — notes on strategy, governance, and measured impact."
 date: 2026-04-14
-author: "AIValueWorx"
+author: "Peter Abraham"
+authorLinkedIn: "https://www.linkedin.com/in/peter-abraham/"
 tags:
   - announcement
 ---
