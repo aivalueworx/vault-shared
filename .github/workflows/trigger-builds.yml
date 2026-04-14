@@ -1,0 +1,41 @@
+name: Trigger doc site builds
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "published/**"
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - repo: aivalueworx/strategy-docs
+            folder: published/strategy-docs
+    steps:
+      - name: Check if folder changed
+        id: check
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect changes in ${{ matrix.folder }}
+        id: changes
+        run: |
+          if git diff --name-only HEAD~1 HEAD | grep -q "^${{ matrix.folder }}/"; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger ${{ matrix.repo }} build
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.DISPATCH_TOKEN }}" \
+            "https://api.github.com/repos/${{ matrix.repo }}/dispatches" \
+            -d '{"event_type":"vault-shared-updated","client_payload":{"folder":"${{ matrix.folder }}"}}'
+          echo "Dispatched build to ${{ matrix.repo }}"
