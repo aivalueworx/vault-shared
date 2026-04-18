@@ -2,31 +2,34 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-04-17
+last_collated: 2026-04-18
 ---
 
 # AIValueWorx Offer and Methodology
 
 ## Overview
 
-This pillar captures AIValueWorx's core offering—what we actually do for clients—and the methodology that makes it work. It's the bridge between why the work matters (strategy and philosophy) and how we execute it (operations and delivery). Right now, this pillar is in its early stages of documentation, with foundational infrastructure being tested but substantive methodology content not yet aggregated.
+This pillar is currently in a nascent state, containing only a structural validation note rather than substantive content about AIValueWorx's offer and methodology. The pillar should ultimately capture how AIValueWorx articulates value to clients, the core principles and steps that define its approach, and the distinctive elements that differentiate it in the market. This is foundational knowledge—it's what practitioners need to understand before they can apply the methodology or communicate it to others.
 
 ## What I Know
 
-### Shared Testing Infrastructure
-
-The cluster currently contains validation work for the collaborative knowledge synthesis system itself. This suggests the thinking here isn't yet about *what* the methodology is, but rather about *how* we document it together. There's an intentional setup happening—establishing mechanics for capturing, tagging, and collating methodology insights across the team before filling it with actual content. This is pragmatic: build the vessel before pouring the wine. The single test note confirms the plumbing works, but the cluster remains a placeholder waiting for real methodology substance.
+The current knowledge base doesn't yet contain meaningful content on this pillar. The single note present is a test artifact rather than a substantive reflection on the offer or methodology itself. This creates a significant gap: there's no documented articulation of what AIValueWorx actually does, how it works, or why it matters to clients.
 
 ## Cross-Cluster Connections
 
-The existence of this testing infrastructure implies there's an expectation that methodology knowledge will be distributed—likely scattered across multiple team members' observations, client work, and iterative refinement. This cluster is preparing to aggregate that scattered thinking into coherence. It suggests a shift from siloed documentation to a shared synthesis model, which matters for an offer that presumably evolves as we learn.
+Without substantive content in this cluster, it's impossible to map connections to related areas. Once this pillar is populated, it should naturally inform and intersect with clusters on client engagement, value articulation, implementation approaches, and outcomes measurement—essentially every other pillar depends on clarity about what the core offer and methodology are.
 
 ## Open Questions & Gaps
 
-The big missing pieces are obvious: What *is* the AIValueWorx methodology? What are its core components, key principles, and differentiating practices? How do we actually structure engagements? What frameworks guide client work? What does "good delivery" look like? These aren't small questions—they're foundational to the entire pillar. Right now we have infrastructure but no substance.
+The entire pillar is currently a gap. Key questions that need answering through knowledge capture include:
 
-There's also a meta-question: when does this cluster graduate from test mode to active documentation? What's the trigger—a certain volume of notes, team consensus on structure, a completed engagement to document?
+- What is the core value proposition of AIValueWorx? What problem does it solve, for whom, and why should they choose this approach over alternatives?
+- What are the key phases, principles, or steps that structure the AIValueWorx methodology?
+- What makes the methodology distinctive? What's the underlying philosophy or framework that holds it together?
+- How is the offer tailored or adapted for different client types, industries, or contexts?
+- What does success look like, and how is it measured?
+- What assumptions underpin the methodology, and what conditions need to be present for it to work well?
 
 ## Recently Added
 
-- **test-shared-note**: Validation of shared note capture and collation mechanics within the synthesis workflow.
+- test-shared-note: Placeholder validation artifact with no substantive content.
