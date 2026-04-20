@@ -2,39 +2,33 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-04-19
+last_collated: 2026-04-20
 ---
 
 # AIValueWorx Offer and Methodology
 
 ## Overview
 
-This pillar captures the core offer and methodology that AIValueWorx brings to market—the conceptual framework, service delivery approach, and methodological practices that differentiate the firm. Understanding this pillar is essential for anyone engaging with AIValueWorx offerings, as it defines what the firm *does*, *how* it does it, and what clients can expect from the engagement model.
+This pillar is meant to capture AIValueWorx's distinctive value proposition and the methodology that delivers it. It should cover how the offering is positioned to clients, what makes the approach distinctive, and the operational frameworks that enable consistent delivery. Right now, this pillar exists in skeleton form—the infrastructure is ready but the substantive thinking hasn't been populated yet.
 
 ## What I Know
 
-### Shared Testing (shared-test cluster)
-
-The shared-test cluster exists largely as a structural placeholder at this stage, containing only a minimal validation note. This suggests either that substantive thinking about testing practices within the AIValueWorx methodology hasn't yet been documented, or that the cluster definition itself remains unclear. The label hints at testing as a *shared* activity—potentially suggesting collaborative testing between AIValueWorx and clients, test artifact repositories, or a testing framework embedded in the methodology—but without supporting notes, this remains speculative. The cluster's current state is more about system validation than methodological substance.
+The pillar currently contains only a test entry that serves as a validation of the note-taking and synthesis system itself, rather than substantive thinking about the offer or methodology. This suggests the knowledge work in this area either hasn't been formally captured yet, or hasn't been tagged into this pillar structure. There's a recognition that "shared" elements matter to the methodology—whether that means shared client frameworks, shared internal processes, or shared outcomes—but that concept remains undefined.
 
 ## Cross-Cluster Connections
 
-At present, there are no evident connections between clusters because only one placeholder cluster exists. Once the shared-test cluster is populated with substantive notes, and as other clusters emerge (e.g., engagement models, service offerings, methodological frameworks, delivery processes), the relationships should become clear. A mature pillar would show how testing practices connect to broader service delivery, quality assurance, and client collaboration models.
+Without populated clusters, there are no meaningful cross-connections to map yet. However, once this pillar develops, we should expect it to inform and be informed by other potential pillars: it would likely connect to how value is actually measured or demonstrated with clients, how the methodology scales across different engagement types, and what differentiates AIValueWorx in the market. The methodology should be grounded in real client work and outcomes.
 
 ## Open Questions & Gaps
 
-The entire pillar is substantially underdeveloped:
+The most pressing gap is clarity on what "shared" actually means in the methodology context. Is this about:
+- Shared frameworks or canvases that clients and AIValueWorx teams use collaboratively?
+- Shared tooling or processes that enable consistent delivery?
+- Shared language or mental models that cut across engagements?
+- Shared outcomes or success metrics that bind offerings together?
 
-- **What is the actual AIValueWorx offer?** What specific services, products, or outcomes does the firm deliver to clients?
-- **What methodology underpins these offerings?** Is there a proprietary framework, a staged engagement model, or a particular approach to value creation?
-- **What does "shared-test" genuinely mean?** Is testing a central component of how AIValueWorx validates value creation, or is this a minor methodological element?
-- **Where are the clusters that should anchor this pillar?** There should be clusters documenting the core offer, engagement methodology, pricing/delivery models, success metrics, and client value proposition—none of which are currently present.
-- **How does AIValueWorx differentiate itself?** What makes the methodology distinct from competitor approaches?
+Beyond that, the entire pillar needs foundational content: What is the core offer? What problem does it solve? What's the step-by-step methodology clients experience? What makes it distinct from alternatives? How do different service lines (if they exist) relate to a coherent core approach?
 
 ## Recently Added
 
-- **test-shared-note**: Minimal test content validating the note capture and collation workflow.
-
----
-
-**Assessment:** This pillar is in early-stage scaffolding. The shared-test cluster functions as a system validation artifact rather than substantive content. To make this pillar useful, it needs population with clusters that address the firm's actual offer architecture, methodological practices, engagement models, and delivery frameworks. Until then, this pillar cannot serve its intended function of explaining how AIValueWorx approaches its work.
+- **test-shared-note**: Test shared note for collation.
