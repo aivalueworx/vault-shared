@@ -2,35 +2,38 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-05-02
+last_collated: 2026-05-03
 ---
 
 # AIValueWorx Offer and Methodology
 
 ## Overview
 
-This pillar is currently a testing fixture rather than a substantive knowledge domain. It contains only placeholder content designed to validate the note collation and synthesis workflow. The pillar should eventually capture AIValueWorx's core offering—what problems it solves, how it positions itself in the market, and what methodology underpins its approach to value creation. Once populated with real content, this should be a primary reference for understanding what the organization does and how it does it.
+This pillar is meant to capture the AIValueWorx offer to clients and the methodology underlying it—how the firm positions itself, what problems it solves, how it approaches engagements, and what distinguishes its method. This is foundational territory: it should explain what AIValueWorx actually *does* and *how* it does it in a way that informs every other pillar.
+
+Currently, this pillar contains only a test fixture with no substantive content.
 
 ## What I Know
 
-**Testing Infrastructure (shared-test)**
+**Shared Testing (shared-test)**
 
-There is a single note in this cluster serving as a validation checkpoint for the collation system. It confirms that the workflow for aggregating and synthesizing notes across clusters is functioning correctly, but it contains no substantive information about AIValueWorx's actual offer or methodology. This appears to be a deliberate test case rather than authentic knowledge capture.
+This cluster exists as infrastructure validation only. A single placeholder note demonstrates that the notes system can route content into clusters and that synthesis can occur, but no actual knowledge about testing practices, validation approaches, or methodological commitments has been captured yet.
 
 ## Cross-Cluster Connections
 
-At present, there are no meaningful connections to draw. The cluster exists in isolation as a testing artifact, with no relationship to other knowledge areas that would normally inform an understanding of offer and methodology—such as market positioning, service delivery models, value frameworks, or client engagement patterns.
+There are no connections to trace yet, because there is no content. Once substantive notes populate this pillar, we should expect them to anchor discussions across the entire knowledge base—the offer and methodology should inform how you think about client engagements, value measurement, tooling choices, and team capabilities.
 
 ## Open Questions & Gaps
 
-The entire substantive content of this pillar is missing. Key unknowns include:
+The entire pillar is a gap. To make this pillar useful, you'd need to capture:
 
-- **What is AIValueWorx's core offer?** What specific problems does it solve, for whom, and why does it matter?
-- **What is the methodology?** What distinctive approach, process, or framework does AIValueWorx use to deliver value?
-- **Market positioning:** How does AIValueWorx position itself relative to competitors? What is its value proposition?
-- **Service delivery:** What does engagement actually look like? What are the phases, touchpoints, and expected outcomes?
+- **What is the AIValueWorx offer?** What do you sell, to whom, and in what form? (Project-based? Retainer? Embedded? Training?)
+- **What is the core methodology?** What is your repeatable approach to engagements? What phases or stages does it follow? What are the key activities and deliverables?
+- **What's distinctive about it?** Why would a client choose AIValueWorx over alternatives? What assumptions or values drive your approach?
+- **What does shared testing mean?** If this is a real cluster (not just a test artifact), what are the shared testing practices, validation protocols, or collaboration patterns worth documenting?
+- **How do you measure success?** How do you define value delivery and prove impact?
 
-This pillar needs substantial population before it can serve as a useful reference.
+These notes should be written from the inside—your own articulation of how you work, not external positioning.
 
 ## Recently Added
 
