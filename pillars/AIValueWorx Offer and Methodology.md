@@ -2,39 +2,37 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-05-03
+last_collated: 2026-05-04
 ---
 
 # AIValueWorx Offer and Methodology
 
 ## Overview
 
-This pillar is meant to capture the AIValueWorx offer to clients and the methodology underlying it—how the firm positions itself, what problems it solves, how it approaches engagements, and what distinguishes its method. This is foundational territory: it should explain what AIValueWorx actually *does* and *how* it does it in a way that informs every other pillar.
-
-Currently, this pillar contains only a test fixture with no substantive content.
+This pillar is intended to capture AIValueWorx's core offer—what we deliver to clients—and the methodology we employ to deliver it. At present, the cluster structure here is largely scaffolding: a single test note holding space where substantive thinking about methodology and value proposition should develop. This is foundational material; how we articulate our offer and the repeatable processes behind it will shape everything from client conversations to team execution.
 
 ## What I Know
 
-**Shared Testing (shared-test)**
+**Shared Testing (Nascent)**
 
-This cluster exists as infrastructure validation only. A single placeholder note demonstrates that the notes system can route content into clusters and that synthesis can occur, but no actual knowledge about testing practices, validation approaches, or methodological commitments has been captured yet.
+Currently this exists as a placeholder rather than a developed concept. The cluster acknowledges that some form of "shared testing" is relevant to AIValueWorx's methodology, but the specific meaning remains undefined. It could refer to collaborative validation approaches with clients, shared frameworks for assessing whether value has been delivered, common test patterns that repeat across engagements, or something else entirely. The lack of substantive content here suggests this is territory worth mapping out deliberately.
 
 ## Cross-Cluster Connections
 
-There are no connections to trace yet, because there is no content. Once substantive notes populate this pillar, we should expect them to anchor discussions across the entire knowledge base—the offer and methodology should inform how you think about client engagements, value measurement, tooling choices, and team capabilities.
+At this stage, cross-cluster connections are speculative. A mature methodology pillar would likely inform and draw from work captured elsewhere in the knowledge base—client frameworks, value delivery case studies, team practices, or assessment approaches. The "shared testing" concept might bridge internal (how we validate our own work) and external (how we involve clients in validation) dimensions. Without more clusters developed, it's hard to see these relationships clearly.
 
 ## Open Questions & Gaps
 
-The entire pillar is a gap. To make this pillar useful, you'd need to capture:
+Several critical questions hang over this pillar:
 
-- **What is the AIValueWorx offer?** What do you sell, to whom, and in what form? (Project-based? Retainer? Embedded? Training?)
-- **What is the core methodology?** What is your repeatable approach to engagements? What phases or stages does it follow? What are the key activities and deliverables?
-- **What's distinctive about it?** Why would a client choose AIValueWorx over alternatives? What assumptions or values drive your approach?
-- **What does shared testing mean?** If this is a real cluster (not just a test artifact), what are the shared testing practices, validation protocols, or collaboration patterns worth documenting?
-- **How do you measure success?** How do you define value delivery and prove impact?
+- **What is our actual offer?** Beyond the placeholder, there's no articulation of what AIValueWorx delivers, what problems we solve, or what success looks like for clients.
+- **What is our methodology?** What are the repeatable steps, decision points, and practices that constitute how we work? Is there a service model, a project structure, a way of engaging?
+- **What does "shared testing" mean?** This needs to be unpacked: Is it about client involvement? Quality assurance? Validation of value claims? Something else?
+- **How do we differentiate?** What makes our approach distinct or valuable compared to alternatives?
+- **What are our core frameworks?** Do we have proprietary tools, models, or structures that sit at the heart of how we operate?
 
-These notes should be written from the inside—your own articulation of how you work, not external positioning.
+This pillar is essentially empty and needs to be built from the ground up.
 
 ## Recently Added
 
-- **test-shared-note**: Test shared note for collation.
+- **test-shared-note**: Test shared note for collation validation.
