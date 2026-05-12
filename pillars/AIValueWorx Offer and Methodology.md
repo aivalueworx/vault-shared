@@ -2,7 +2,7 @@
 type: pillar
 status: generated
 agent_skip: true
-last_collated: 2026-05-11
+last_collated: 2026-05-12
 ---
 
 # AIValueWorx Offer and Methodology
@@ -11,29 +11,32 @@ last_collated: 2026-05-11
 
 ## Overview
 
-This pillar describes how AIValueWorx approaches value creation, positions its core offering, and operationalizes its methodology. It should explain what distinguishes the AIValueWorx approach, how it delivers value to clients, and the frameworks and processes that make the methodology coherent and repeatable. At present, this pillar is in very early formation with minimal substantive content.
+This pillar should articulate what AIValueWorx actually *does*—the core offer, how it's positioned, and the methodology that brings it to life. It's where strategy meets execution: what problems we solve, how we solve them distinctively, and what a client engagement actually looks like. This is foundational material that shapes everything from sales conversations to delivery.
+
+At present, the pillar is in its earliest stage of formation.
 
 ## What I Know
 
-### Shared-Test
-The "shared-test" cluster currently contains only placeholder scaffolding—a single test note with no developed conceptual content. This suggests the cluster exists as a structural marker within the Offer and Methodology pillar, but its actual purpose remains undefined. It's unclear whether this is meant to capture shared testing practices (how AIValueWorx validates its approach), collaborative validation mechanisms, or something else entirely. The label itself is ambiguous enough that it could fit several interpretations, which signals that this area needs either clarification or consolidation into a more clearly defined cluster.
+The pillar currently consists of a single test note—a structural placeholder that validates the knowledge capture infrastructure but contains no substantive content about the offer or methodology itself. This appears intentional: the cluster is being set up correctly, but populated with only a validation marker.
 
 ## Cross-Cluster Connections
 
-Unable to establish meaningful connections at this stage, as there is insufficient substantive content within any cluster to trace relationships or dependencies.
+Not yet determinable. Once clusters beyond the test structure exist, their relationships should reveal how the offer breaks down (by client segment, problem type, engagement model?) and how different methodological components reinforce each other. The architecture will matter—whether clusters organize around *what we offer* (vs. *how we do it*) or split along some other dimension will determine how insights flow between them.
 
 ## Open Questions & Gaps
 
-This pillar is substantially underdeveloped. Critical gaps include:
+The substantive work is entirely ahead:
 
-- **The core offering**: What is AIValueWorx actually offering clients? What problem does it solve, and how is that different from competing approaches?
-- **The methodology itself**: What are the core steps, principles, or frameworks that constitute the AIValueWorx approach? How is it repeatable and scalable?
-- **The "shared-test" cluster purpose**: Is this meant to document validation practices, testing protocols, collaborative mechanisms, or something else? The label needs either clarification or renaming for clarity.
-- **Positioning and differentiation**: What is the strategic positioning of AIValueWorx, and what makes its methodology distinctive?
-- **Implementation and operationalization**: How does the methodology translate into client engagements? What are the key touchpoints, deliverables, and success measures?
-
-This pillar essentially needs foundational content across all major dimensions.
+- **What is the core AIValueWorx offer?** What specific problem or value do we deliver? Who do we deliver it to?
+- **How is it differentiated?** What's our distinctive methodology or approach compared to alternatives?
+- **What is the engagement model?** What does a typical engagement look like—phases, milestones, deliverables, timeline?
+- **How should this pillar be organized?** Should clusters map to offer variations, methodological phases, client types, or something else?
+- **Where are the operational details?** How do we actually operationalize this—what frameworks, tools, processes, roles?
 
 ## Recently Added
 
-- **test-shared-note**: Test content for shared collation (no substantive information).
+- **test-shared-note**: Test shared note for collation.
+
+---
+
+**Note:** This pillar is ready for substantive input. The infrastructure is sound; now it needs population with actual offer and methodology content.
