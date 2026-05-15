@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "published/blog/welcome.md",
+                "file": "published/blog/governance-readiness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "welcome"
+              "title": "governance-readiness"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "8044023e98b9d1f1",
   "lastOpenFiles": [
+    "published/blog/welcome.md",
     "published/blog/governance-readiness.md",
     "published/strategy-docs/quick-start-guide.md",
-    "published/blog/welcome.md",
     "published/strategy-docs/wms-tool-mapping.md",
     "published/blog",
     "docs/wms-tool-mapping.html.md",
